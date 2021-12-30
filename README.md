@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Justymaker
 - 👀 I’m interested in software,cyber c
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning cyber C.
+- 💞️ I’m looking to collaborate on software
+- 📫 How to reach me Justymaker@gmail.com
 
 <!---
 Justymaker/Justymaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
